@@ -11,4 +11,11 @@ This table provides some suggestions regarding book/song/video.
 | Kun Faya Kun | Great Tune | A.R.Rahman |
 | Nee Singam Dhan | Visuals | A.R.Rahman |
 
+---
+## Favorite Quotes
+>Picking one, teaches. Picking both, confuses.
+>The key to having more opportunities in life is to give yourself enough opportunities to get curious.
+>Listening to someone without judgement or prescription is the most precious gift you can give someone.
+>- *Ankur Warikoo*
+
 
