@@ -7,4 +7,8 @@ I like this restaurant because their **Chicken** fry piece **biryani** is delici
 2) Chicken Kebab
 3) Chicken Mughlai Biryani
 
+Places to visit near the restaurant:
+- Sangam Sarat Theatre
+- Pollocks School
+- Daba Gardens
 
