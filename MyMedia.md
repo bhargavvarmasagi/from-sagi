@@ -19,6 +19,6 @@ This table provides some suggestions regarding book/song/video.
 
 >"Listening to someone without judgement or prescription is the most precious gift you can give someone."
 
->- *Ankur Warikoo*
+-- *Ankur Warikoo*
 
 
