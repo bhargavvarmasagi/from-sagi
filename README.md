@@ -12,3 +12,4 @@ I like this restaurant because their **Chicken** fry piece **biryani** is delici
 - Pollocks School
 - Daba Gardens
 
+[MyMedia](./MyMedia.md)
