@@ -26,7 +26,7 @@ This table provides some suggestions regarding book/song/video.
 
 ---
 ## Code Fencing
-To guarantee that only one instance of a class is created, establish a singleton class structure in Dart. This can be used for state management, performance optimization, and property updates.
+This is a singleton class strucuture to ensure only one instance of class is created. It can be used to update properties.
 ```
 class SingletonClass {
   static final SingletonClass _instance = SingletonClass._internal();
