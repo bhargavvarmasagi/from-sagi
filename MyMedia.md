@@ -11,6 +11,8 @@ This table provides some suggestions regarding book/song/video.
 | Atomic Habits | Inspiring | James Clear |
 | Kun Faya Kun | Great Tune | A.R.Rahman |
 | Nee Singam Dhan | Visuals | A.R.Rahman |
+| Salaar Trailer | Prabhas | Prasanth Neel |
+| Animal Trailer | Fights | Sandeep Reddy Vanga |
 
 ---
 ## Favorite Quotes
